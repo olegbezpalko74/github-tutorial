@@ -8,6 +8,14 @@ body {
     color: blue;
 }
 
-
+.box {
+    height: 150px;
+    width: 150px;
+    border: 3px dashed #25e044;
+    padding: 30px;
+    margin: 80px;
+    background-color: rgb(102, 21, 233);
+    color: #fff;
+}
 
  
