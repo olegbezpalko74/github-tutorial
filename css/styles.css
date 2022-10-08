@@ -45,3 +45,24 @@ body {
     margin-left: auto;
     margin-right: auto;
  }
+ .site-nav {
+   display: flex;
+width: 281px;
+height: 16px;
+left: 453px;
+top: 32px;
+color: black;
+
+
+ }
+
+ 
+ .site-nav .item {
+   outline: 1px solid red;
+   margin-right: 40px;
+ }
+ 
+ .site-nav .item:last-child {
+   margin-right: 0;
+ }
+ 
